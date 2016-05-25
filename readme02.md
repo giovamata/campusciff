@@ -1,5 +1,6 @@
 Ejercicio 2
 
+
 Creacion de Readme para Ejercicio 2
 touch readme02.md
 git add -A
