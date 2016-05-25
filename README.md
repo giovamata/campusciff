@@ -68,6 +68,8 @@ Crear Tabla
 | Nombre |< https://github.com/juangarciaciff >| 
 | nombre |< https://github.com/araceliMacia >| 
 
+Colaborador
+   Ver archivo Pantallas.docx
 
 
 FIN
