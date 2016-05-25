@@ -18,3 +18,10 @@ touch 2.txt
 
 
 
+
+Crear rama remota v0.2
+git add -A
+git commit -m "Archivo 2.txt en branch"
+git push git@github.com:giovamata/campusciff.git
+
+	
